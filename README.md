@@ -1,6 +1,6 @@
-# ✈️ Flight Booking Frontend (Angular) 
+# ✈️ VoliItalia (Back end) 
 
-This repository contains the frontend application for a flight-booking platform (Italian website) built with Angular.
+This repository contains the backend application for a flight-booking platform (Italian website) built with Java.
 The system supports two types of users:
 
 1. Normal Users – can register, log in, browse available flights, and book them.
@@ -44,16 +44,15 @@ Authentication is implemented using JWT tokens, ensuring secure access to all pr
 
 - Secure token handling
 
-## 🧩 Frontend Tech Stack
+## 🧩 Backend Tech Stack
 
-- Angular
+- Java
 
 - REST API integration
 
-- HTML
+- Spring
 
-- Javascript
+- JPA architecture
 
-- Typescript
+- PostgreSQL
 
-- CSS
