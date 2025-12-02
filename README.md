@@ -1,4 +1,4 @@
-✈️ Flight Booking Frontend (Angular) 
+# ✈️ Flight Booking Frontend (Angular) 
 
 This repository contains the frontend application for a flight-booking platform (Italian website) built with Angular.
 The system supports two types of users:
@@ -9,7 +9,7 @@ The system supports two types of users:
 
 Authentication is implemented using JWT tokens, ensuring secure access to all protected resources within the application.
 
-🚀 Features
+## 🚀 Features
 👤 Normal User
 
 - Register and log in
@@ -22,7 +22,7 @@ Authentication is implemented using JWT tokens, ensuring secure access to all pr
 
 - View booking history (if supported by backend)
 
-🛫 Flight Company User
+## 🛫 Flight Company User
 
 - Register as a flight company
 
@@ -34,7 +34,7 @@ Authentication is implemented using JWT tokens, ensuring secure access to all pr
 
 - Manage flight listings
 
-🔐 Security
+## 🔐 Security
 
 - JWT-based authentication
 
@@ -44,8 +44,16 @@ Authentication is implemented using JWT tokens, ensuring secure access to all pr
 
 - Secure token handling
 
-🧩 Frontend Tech Stack
+## 🧩 Frontend Tech Stack
 
-Angular
+- Angular
 
-REST API integration
+- REST API integration
+
+- HTML
+
+- Javascript
+
+- Typescript
+
+- CSS
